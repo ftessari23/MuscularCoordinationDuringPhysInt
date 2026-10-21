@@ -49,7 +49,7 @@ The following `.mat` files must be in the same folder as the script (`TBD`):
 2. Open MATLAB and set that directory as the current folder.
 3. Run the script:
    ```matlab
-   <main_script_name>
+   main_EMG_coord_v2.m
    ```
    You can also run it section by section with **Run Section**.
 
