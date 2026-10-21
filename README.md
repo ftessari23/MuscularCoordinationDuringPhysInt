@@ -18,7 +18,7 @@ The script is a single file (`main_EMG_coord_v2.m`). Running it loads the pre-pr
 - **DIEM toolbox.** You can find it in this repo or download it from `(https://github.com/ftessari23/diem)` and place the unzipped folder `DIEM-main` in the same directory as the script. It provides `getDIEM`, `getCosineSimilarity` and `DIEM_Stat`. The script adds it to the MATLAB path automatically.
 
 ### Data files
-The following `.mat` files must be in the same folder as the script (`TBD`):
+The following `.mat` files must be in the same folder as the script (`10.5281/zenodo.23541424`):
 
 | File | Contents |
 |---|---|
