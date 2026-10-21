@@ -15,7 +15,7 @@ The script is a single file (`main_EMG_coord_v2.m`). Running it loads the pre-pr
 ### Software
 - **MATLAB R2020b or newer.** The script uses `tiledlayout` (R2019b), `exportgraphics` (R2020a) and `subtitle` (R2020b).
 - **Statistics and Machine Learning Toolbox.** The script uses `anova2`, `tinv`, `tcdf` and `tiedrank`.
-- **DIEM toolbox.** Download it from `[<DIEM repository URL>](https://github.com/ftessari23/diem)` and place the unzipped folder `DIEM-main` in the same directory as the script. It provides `getDIEM`, `getCosineSimilarity` and `DIEM_Stat`. The script adds it to the MATLAB path automatically.
+- **DIEM toolbox.** You can find it in this repo or download it from `[<DIEM repository URL>](https://github.com/ftessari23/diem)` and place the unzipped folder `DIEM-main` in the same directory as the script. It provides `getDIEM`, `getCosineSimilarity` and `DIEM_Stat`. The script adds it to the MATLAB path automatically.
 
 ### Data files
 The following `.mat` files must be in the same folder as the script (`TBD`):
