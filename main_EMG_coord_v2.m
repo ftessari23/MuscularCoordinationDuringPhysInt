@@ -10,7 +10,7 @@
 %  NOTE: all code lines that save figures to file are commented out.
 %        Uncomment them (and create the "PaperFigures" folder) to export.
 
-clear; clc;
+clear; clc; close all;
 
 addpath(genpath(fullfile(pwd, 'DIEM-main')));
 
